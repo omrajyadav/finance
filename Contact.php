@@ -2,7 +2,7 @@
 include "header.php";
 ?>
 <!-- Page Content -->
-<div class="page-heading header-text">
+<!-- <div class="page-heading header-text">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -11,7 +11,7 @@ include "header.php";
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <div class="contact-information">
   <div class="container">
